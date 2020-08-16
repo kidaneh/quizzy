@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="Q1">More Americans use Android than ios mobile device</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="Q2">An Android device created by Samsung may have different UI than an Android device created by LG.</string>
+    <string name="Q3">Android and IOS apps are downloaded from the same app store.</string>
+    <string name="Q4">Android App may only be downloaded from Google play store.</string>
+    <string name="Q5">Apples App store places many restrictions on mobile apps.</string>
+    <string name="Q6">String is not a value resource.</string>
+    <string name="Q7">strings.xml typically contains an apps string resources.</string>
+    <string name="Q8">Android and iOS apps are downloaded from the same app.</string>
+    <string name="next_text">next</string>
+
+</resources>
